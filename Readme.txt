@@ -1,4 +1,4 @@
-(制作中)
+(制作停止中)
 ゲーム作品番号：UnrealEngine --　対応OS：Windows　制作環境：UnrealEngine 4.27
 
 タイトル：未定
